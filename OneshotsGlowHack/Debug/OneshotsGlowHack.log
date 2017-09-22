@@ -1,33 +1,6 @@
 ﻿  Glow.cpp
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(98): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(121): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(131): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(132): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(148): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(156): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(164): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(172): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(188): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(196): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(204): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(212): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(228): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(236): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(244): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(252): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(257): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(258): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(260): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(268): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(276): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(284): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(292): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(300): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(308): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(316): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(324): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(332): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(340): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\master\documents\visual studio 2015\projects\oneshotsglowhack\oneshotsglowhack\glow.cpp(54): warning C4065: switch statement contains 'default' but no 'case' labels
-  OneshotsGlowHack.vcxproj -> C:\Users\master\Documents\Visual Studio 2015\Projects\OneshotsGlowHack\Debug\OneshotsGlowHack.exe
-  OneshotsGlowHack.vcxproj -> C:\Users\master\Documents\Visual Studio 2015\Projects\OneshotsGlowHack\Debug\OneshotsGlowHack.pdb (Full PDB)
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  OneshotsGlowHack.cpp
+  OneshotsGlowHack.vcxproj -> C:\Users\master\Desktop\OneshotsGlowHack-master\Debug\OneshotsGlowHack.exe
+  OneshotsGlowHack.vcxproj -> C:\Users\master\Desktop\OneshotsGlowHack-master\Debug\OneshotsGlowHack.pdb (Full PDB)
